@@ -1,0 +1,22 @@
+﻿  p482.cpp
+C:\Users\Diego\POO_II\Semanas\4\unidad-2-semana-4-algoritmos-stl-DiegoOrtizS\p482\p482.cpp(10,33): error C2872:  'size': símbolo ambiguo
+C:\Users\Diego\POO_II\Semanas\4\unidad-2-semana-4-algoritmos-stl-DiegoOrtizS\p482\p482.cpp(7,11): message :  puede ser 'const int size'
+C:\Users\Diego\POO_II\Semanas\4\unidad-2-semana-4-algoritmos-stl-DiegoOrtizS\p482\p482.cpp(10,33): message :  o       'size'
+C:\Users\Diego\POO_II\Semanas\4\unidad-2-semana-4-algoritmos-stl-DiegoOrtizS\p482\p482.cpp(10,52): error C2872:  'size': símbolo ambiguo
+C:\Users\Diego\POO_II\Semanas\4\unidad-2-semana-4-algoritmos-stl-DiegoOrtizS\p482\p482.cpp(7,11): message :  puede ser 'const int size'
+C:\Users\Diego\POO_II\Semanas\4\unidad-2-semana-4-algoritmos-stl-DiegoOrtizS\p482\p482.cpp(10,52): message :  o       'size'
+C:\Users\Diego\POO_II\Semanas\4\unidad-2-semana-4-algoritmos-stl-DiegoOrtizS\p482\p482.cpp(12,1): error C2872:  'size': símbolo ambiguo
+C:\Users\Diego\POO_II\Semanas\4\unidad-2-semana-4-algoritmos-stl-DiegoOrtizS\p482\p482.cpp(7,11): message :  puede ser 'const int size'
+C:\Users\Diego\POO_II\Semanas\4\unidad-2-semana-4-algoritmos-stl-DiegoOrtizS\p482\p482.cpp(12,1): message :  o       'size'
+C:\Users\Diego\POO_II\Semanas\4\unidad-2-semana-4-algoritmos-stl-DiegoOrtizS\p482\p482.cpp(37,20): error C2872:  'size': símbolo ambiguo
+C:\Users\Diego\POO_II\Semanas\4\unidad-2-semana-4-algoritmos-stl-DiegoOrtizS\p482\p482.cpp(7,11): message :  puede ser 'const int size'
+C:\Users\Diego\POO_II\Semanas\4\unidad-2-semana-4-algoritmos-stl-DiegoOrtizS\p482\p482.cpp(37,20): message :  o       'size'
+C:\Users\Diego\POO_II\Semanas\4\unidad-2-semana-4-algoritmos-stl-DiegoOrtizS\p482\p482.cpp(46,28): error C2872:  'size': símbolo ambiguo
+C:\Users\Diego\POO_II\Semanas\4\unidad-2-semana-4-algoritmos-stl-DiegoOrtizS\p482\p482.cpp(7,11): message :  puede ser 'const int size'
+C:\Users\Diego\POO_II\Semanas\4\unidad-2-semana-4-algoritmos-stl-DiegoOrtizS\p482\p482.cpp(46,28): message :  o       'size'
+C:\Users\Diego\POO_II\Semanas\4\unidad-2-semana-4-algoritmos-stl-DiegoOrtizS\p482\p482.cpp(48,16): error C2872:  'size': símbolo ambiguo
+C:\Users\Diego\POO_II\Semanas\4\unidad-2-semana-4-algoritmos-stl-DiegoOrtizS\p482\p482.cpp(7,11): message :  puede ser 'const int size'
+C:\Users\Diego\POO_II\Semanas\4\unidad-2-semana-4-algoritmos-stl-DiegoOrtizS\p482\p482.cpp(48,16): message :  o       'size'
+C:\Users\Diego\POO_II\Semanas\4\unidad-2-semana-4-algoritmos-stl-DiegoOrtizS\p482\p482.cpp(55,17): error C2872:  'size': símbolo ambiguo
+C:\Users\Diego\POO_II\Semanas\4\unidad-2-semana-4-algoritmos-stl-DiegoOrtizS\p482\p482.cpp(7,11): message :  puede ser 'const int size'
+C:\Users\Diego\POO_II\Semanas\4\unidad-2-semana-4-algoritmos-stl-DiegoOrtizS\p482\p482.cpp(55,17): message :  o       'size'
